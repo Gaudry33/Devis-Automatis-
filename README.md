@@ -12,6 +12,6 @@ Vous entrez le nom de l’article, son prix unitaire et la quantité.
 
 Le script calcule automatiquement le total de chaque ligne (PU x quantité).
 
-À la fin, il te donne le total global du devis.
+À la fin, il vous donne le total global du devis en Word (docx), ensuite vous pouvez l'exporter en PDF à votre guise (j'aurais pu l'exporter en pdf mais si il y a de petites modifications à faire, des oublis etc...c'est mieux de les régler d'abord sur Word, puis de l'exporter en pdf) 
 
-Un gros gain de temps poour les entreprises, surtout pour une entreprise de Peinture en bâtiment, car le temps, c'est avant tout de l'argent ;)
+C'est avant tout un gros gain de temps poour les entreprises, surtout pour une entreprise de Peinture en bâtiment, car le temps, c'est avant tout de l'argent ;)
