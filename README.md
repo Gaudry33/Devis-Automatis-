@@ -4,7 +4,7 @@
 
 ## Script Devis Automatisé
 
-Ce script Python est un outil de gestion de devis entièrement piloté via la console. En gros :
+Ce script Python est un outil de gestion de devis modifiable via la console, En gros :
 
 Le script permet de modifier les lignes d’un devis en direct, et calcule automatiquement les totaux à partir du prix unitaire et de la quantité.
 
