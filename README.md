@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/devis.jpeg"  width="800">
+  <img src="assets/devis.jpg"  width="800">
 </p>
 
 ## Script Devis Automatisé
