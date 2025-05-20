@@ -4,7 +4,7 @@ Ce script Python est un outil de gestion de devis entièrement piloté via la co
 
 Le script permet de modifier les lignes d’un devis en direct, et calcule automatiquement les totaux à partir du prix unitaire et de la quantité.
 
-Tu entres le nom de l’article, son prix unitaire et la quantité.
+Vous entrez le nom de l’article, son prix unitaire et la quantité.
 
 Le script calcule automatiquement le total de chaque ligne (PU x quantité).
 
