@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/devis.jpeg"  width="800">
+</p>
+
 ## Script Devis Automatisé
 
 Ce script Python est un outil de gestion de devis entièrement piloté via la console. En gros :
